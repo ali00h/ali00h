@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 A FullStack Developer<br>🔭 I’m currently working on Java, Docker, PHP<br><br>
+👯 A FullStack Developer<br>🔭 I’m currently working on Java, Docker, PHP, C#, MongoDB<br><br>
 
 
 # 💻 Tech Stack:
